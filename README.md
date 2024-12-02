@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am a university student at Northern Arizona University currently studying Software Engineering.
+
+I am also interested in cybersecurity and have been taking time to learn and plan to take certification exams in the near future. 
+
 <!--
 **benjamin-levine/benjamin-levine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
