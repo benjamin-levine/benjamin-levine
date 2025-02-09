@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a university student at Northern Arizona University currently studying Software Engineering.
+I am a university student at Northern Arizona University currently studying Software Engineering. I primarily specialize in Front-End but I am always learning Full-Stack development to improve my skills.
 
 I am also interested in cybersecurity and have been taking time to learn and plan to take certification exams in the near future. 
 
